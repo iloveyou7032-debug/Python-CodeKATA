@@ -2,7 +2,7 @@
 # 프로그래머스 (unknown)
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/131113
 # 작성자: 김선영
-# 작성일: 2026. 01. 19. 09:42:35
+# 작성일: 2026. 01. 19. 09:45:29
 
 SELECT 
     ORDER_ID
